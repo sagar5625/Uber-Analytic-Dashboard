@@ -40,6 +40,9 @@ A granular, row-level view of each trip, including:
 
 This tab is useful for **data validation** and **drill-down analysis**.
 
+### 📸 Screenshot – Details Tab
+![Details Tab](Details%20Tab.png)
+
 ---
 
 ## 📈 2. Overview Analysis Tab
@@ -83,6 +86,9 @@ Includes total bookings, revenue, average booking value, and trip distance for:
 - Uber Comfort  
 - Uber Black  
 
+### 📸 Screenshot – Overview Analysis Tab
+![Overview Tab](Overview%20Tab.png)
+
 ---
 
 ## ⏱️ 3. Time Analysis Tab
@@ -105,6 +111,9 @@ Highlights peak booking windows such as:
 - Weekday late afternoons  
 - Weekend evenings  
 
+### 📸 Screenshot – Time Analysis Tab
+![Time Analysis Tab](Time%20Analysis%20Tab.png)
+
 ---
 
 ## 🛠️ Tools Used
@@ -125,6 +134,6 @@ Highlights peak booking windows such as:
 
 ---
 
-## 📷 Dashboard Preview
 
-![Uber Trip Dashboard Screenshot](screenshot-placeholder.png "Details Tab.png")
+
+
