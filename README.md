@@ -127,13 +127,4 @@ Highlights peak booking windows such as:
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
-
----
-
-If you'd like, I can also generate:
-- ✅ A more concise README  
-- ✅ GitHub repository description  
-- ✅ LinkedIn project post  
-
-Just tell me!
+![Uber Trip Dashboard Screenshot](screenshot-placeholder.png "Details Tab.png")
